@@ -1,44 +1,27 @@
-/* 
-<<<<<<< HEAD
-Centerplate 0.8 é uma (fraca e amadora) framework para CSS3. 
-=======
-Centerplate 0.7 é uma (fraca e amadora) framework para CSS3. 
->>>>>>> origin/master
+/*
+Centerplate 1.0 é uma (fraca e amadora) framework para CSS3. 
 Use a classe centerplate para centralizar todo o conteúdo da página dentro de uma div de conteúdo. 
 Use a classe h-ext para esticar uma div horizontalmente e tomar a largura da tela.
 */
 
 /* Tank, 2014-2015 */
-<<<<<<< HEAD
 
 /*a classe centerplate só serve para centralizar o conteúdo da página */
-.centerplate {
-	height: 100%;
+.centerit {
+	width: 800px;
 	margin: 0 auto;
 	text-align: center;
-	width: 100%;
-}
-/* aqui acontece a mágica - ele estica a div horizontamente */
-=======
-
-.centerit{
- margin: 0 auto;
- left: 0;
- bottom: 0;
+	height: 100%;
 }
 
 /* Magic happens here */
-
-.content {
-	padding: 0;
-}
->>>>>>> origin/master
 .h-ext {
     left: 0;
     min-width: 100%;
     position: static;
     z-index: -99;
 }
+
 /* aceleradores */
 .left {
 	float: left;	
