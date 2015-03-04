@@ -1,4 +1,4 @@
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::#CENTERPLATE::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::#CENTERPLATE::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 Centerplate é uma framework CSS que criei pra facilitar minha vida quando o assunto é hotsite e landing page. Centralize o conteúdo e faça qualquer div do código preencher a tela inteira horizontalmente sem barra de rolagem. Abra o arquivo de exemplo e você vai entender!
 
